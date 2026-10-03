@@ -1,0 +1,3773 @@
+[
+  {
+    "id": "fanny",
+    "name": "Fanny",
+    "imageAsset": "assets/heroes/fanny.png",
+    "role": "jungle",
+    "flexRoles": [
+      "exp"
+    ],
+    "damageType": "physical",
+    "metaTier": "S+",
+    "winRate": 51.2,
+    "pickRate": 8.4,
+    "banRate": 45.1,
+    "matchups": [
+      {
+        "heroId": "franco",
+        "score": -0.4,
+        "reason": "Franco's hook interrupts Fanny's cable movement, punishing aggressive positioning."
+      },
+      {
+        "heroId": "chou",
+        "score": 0.5,
+        "reason": "Fanny out-mobilizes Chou in open terrain and can disengage before his combo lands."
+      },
+      {
+        "heroId": "gusion",
+        "score": 0.3,
+        "reason": "Fanny's sustained mobility lets her reposition around Gusion's burst windows."
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "angela",
+        "score": 0.7,
+        "reason": "Angela's ultimate lets Fanny dive safely and disengage the instant the combo ends."
+      },
+      {
+        "heroId": "chou",
+        "score": 0.4,
+        "reason": "Chou's Punish/peapod combo chains directly into Fanny's burst window."
+      }
+    ]
+  },
+  {
+    "id": "chou",
+    "name": "Chou",
+    "imageAsset": "assets/heroes/chou.png",
+    "role": "exp",
+    "flexRoles": [
+      "roam"
+    ],
+    "damageType": "physical",
+    "metaTier": "S",
+    "winRate": 50.5,
+    "pickRate": 12.1,
+    "banRate": 20.3,
+    "matchups": [
+      {
+        "heroId": "fanny",
+        "score": -0.5,
+        "reason": "Fanny's cable range and reset combos punish Chou before his kick lands."
+      },
+      {
+        "heroId": "gusion",
+        "score": 0.5,
+        "reason": "Chou's Shunpo interrupts Gusion's dash combo and threatens a kill window."
+      },
+      {
+        "heroId": "franco",
+        "score": 0.2,
+        "reason": "Chou can flash-kick Franco's hook target out of the combo entirely."
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "fanny",
+        "score": 0.4,
+        "reason": "Chou's kick sets up a clean follow-up window for Fanny's burst."
+      },
+      {
+        "heroId": "lylia",
+        "score": 0.5,
+        "reason": "Chou's kick chains targets straight into Lylia's AoE ultimate."
+      }
+    ]
+  },
+  {
+    "id": "franco",
+    "name": "Franco",
+    "imageAsset": "assets/heroes/franco.png",
+    "role": "roam",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "A",
+    "winRate": 49.8,
+    "pickRate": 15.0,
+    "banRate": 10.2,
+    "matchups": [
+      {
+        "heroId": "fanny",
+        "score": 0.4,
+        "reason": "A well-timed hook interrupts Fanny mid-cable and isolates her from her team."
+      },
+      {
+        "heroId": "beatrix",
+        "score": 0.5,
+        "reason": "Beatrix has minimal escape once hooked, making her an easy pick-off target."
+      },
+      {
+        "heroId": "gusion",
+        "score": 0.3,
+        "reason": "A hook lands before Gusion can commit his combo, denying his burst entirely."
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "beatrix",
+        "score": 0.6,
+        "reason": "Franco's hook delivers isolated targets straight into Beatrix's burst range."
+      },
+      {
+        "heroId": "valentina",
+        "score": 0.3,
+        "reason": "A hooked target is an easy follow-up cast for Valentina's stolen ultimates."
+      }
+    ]
+  },
+  {
+    "id": "gusion",
+    "name": "Gusion",
+    "imageAsset": "assets/heroes/gusion.png",
+    "role": "mid",
+    "flexRoles": [
+      "jungle"
+    ],
+    "damageType": "magic",
+    "metaTier": "S+",
+    "winRate": 50.9,
+    "pickRate": 18.5,
+    "banRate": 55.0,
+    "matchups": [
+      {
+        "heroId": "chou",
+        "score": -0.5,
+        "reason": "Chou can interrupt Gusion's dash chain and punish the commitment."
+      },
+      {
+        "heroId": "franco",
+        "score": -0.3,
+        "reason": "Getting hooked pre-combo strips Gusion of his entire burst window."
+      },
+      {
+        "heroId": "lylia",
+        "score": 0.4,
+        "reason": "Gusion can dash in and burst Lylia down before her shield or combo resolves."
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "angela",
+        "score": 0.5,
+        "reason": "Angela's ultimate gives Gusion a safe re-engage after his first combo."
+      },
+      {
+        "heroId": "chou",
+        "score": 0.2,
+        "reason": "Chou's stuns keep priority targets locked down for Gusion's burst."
+      }
+    ]
+  },
+  {
+    "id": "lylia",
+    "name": "Lylia",
+    "imageAsset": "assets/heroes/lylia.png",
+    "role": "mid",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "S",
+    "winRate": 52.0,
+    "pickRate": 9.7,
+    "banRate": 12.4,
+    "matchups": [
+      {
+        "heroId": "gusion",
+        "score": -0.4,
+        "reason": "Gusion closes the distance too fast for Lylia's summon zoning to matter."
+      },
+      {
+        "heroId": "valentina",
+        "score": 0.3,
+        "reason": "Lylia's summon damage chips Valentina down before she can commit a combo."
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "chou",
+        "score": 0.5,
+        "reason": "Chou groups enemies for Lylia's summon field and AoE ultimate."
+      },
+      {
+        "heroId": "franco",
+        "score": 0.2,
+        "reason": "A hooked target stands still in Lylia's summon zone far longer."
+      }
+    ]
+  },
+  {
+    "id": "angela",
+    "name": "Angela",
+    "imageAsset": "assets/heroes/angela.png",
+    "role": "roam",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "A",
+    "winRate": 50.2,
+    "pickRate": 6.8,
+    "banRate": 5.1,
+    "matchups": [
+      {
+        "heroId": "franco",
+        "score": -0.2,
+        "reason": "Franco can hook Angela down before she merges into an ally for safety."
+      },
+      {
+        "heroId": "beatrix",
+        "score": 0.3,
+        "reason": "Angela can merge into a diver and force Beatrix out of position early."
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "fanny",
+        "score": 0.7,
+        "reason": "Merging into Fanny turns a risky dive into a nearly guaranteed pick."
+      },
+      {
+        "heroId": "gusion",
+        "score": 0.5,
+        "reason": "Angela's ult gives Gusion a second safe engage after his combo is spent."
+      },
+      {
+        "heroId": "beatrix",
+        "score": 0.4,
+        "reason": "Angela can peel for Beatrix or merge in to extend an engage."
+      }
+    ]
+  },
+  {
+    "id": "beatrix",
+    "name": "Beatrix",
+    "imageAsset": "assets/heroes/beatrix.png",
+    "role": "gold",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "S+",
+    "winRate": 51.8,
+    "pickRate": 20.2,
+    "banRate": 38.7,
+    "matchups": [
+      {
+        "heroId": "franco",
+        "score": -0.5,
+        "reason": "Beatrix has almost no escape once hooked out of her firing position."
+      },
+      {
+        "heroId": "angela",
+        "score": -0.3,
+        "reason": "A merged diver can reach Beatrix before Renner's range advantage matters."
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "franco",
+        "score": 0.6,
+        "reason": "Every hook Franco lands is a near-guaranteed burst window for Beatrix."
+      },
+      {
+        "heroId": "angela",
+        "score": 0.4,
+        "reason": "Angela's peel keeps Beatrix alive long enough to unload full damage."
+      }
+    ]
+  },
+  {
+    "id": "valentina",
+    "name": "Valentina",
+    "imageAsset": "assets/heroes/valentina.png",
+    "role": "mid",
+    "flexRoles": [
+      "roam"
+    ],
+    "damageType": "magic",
+    "metaTier": "S",
+    "winRate": 50.6,
+    "pickRate": 7.9,
+    "banRate": 14.0,
+    "matchups": [
+      {
+        "heroId": "lylia",
+        "score": -0.3,
+        "reason": "Lylia's poke chips Valentina down before she can steal a useful ultimate."
+      },
+      {
+        "heroId": "gusion",
+        "score": 0.2,
+        "reason": "Stealing an enemy ultimate can turn Gusion's own burst combo against him."
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "franco",
+        "score": 0.3,
+        "reason": "A hooked target is an easy cast for whichever ultimate Valentina has stolen."
+      },
+      {
+        "heroId": "chou",
+        "score": 0.2,
+        "reason": "Chou's crowd control covers Valentina's longer cast times."
+      }
+    ]
+  },
+  {
+    "id": "ling",
+    "name": "Ling",
+    "imageAsset": "assets/heroes/ling.png",
+    "role": "jungle",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "S+",
+    "winRate": 51.4,
+    "pickRate": 9.1,
+    "banRate": 33.6,
+    "matchups": [
+      {
+        "heroId": "lancelot",
+        "score": 0.4,
+        "reason": "Ling's wall-climb outmaneuvers Lancelot on most jungle terrain."
+      },
+      {
+        "heroId": "fanny",
+        "score": -0.3,
+        "reason": "Fanny's superior cable range and resets usually win an extended duel."
+      },
+      {
+        "heroId": "franco",
+        "score": 0.3,
+        "reason": "Constant wall dashes make Ling a hard target to land a hook on."
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "atlas",
+        "score": 0.6,
+        "reason": "Atlas' ultimate groups the whole enemy team for Ling's follow-up ultimate."
+      },
+      {
+        "heroId": "angela",
+        "score": 0.5,
+        "reason": "Angela's ultimate gives Ling a second safe re-engage after resets run out."
+      }
+    ]
+  },
+  {
+    "id": "lancelot",
+    "name": "Lancelot",
+    "imageAsset": "assets/heroes/lancelot.png",
+    "role": "jungle",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "S",
+    "winRate": 50.3,
+    "pickRate": 8.7,
+    "banRate": 15.2,
+    "matchups": [
+      {
+        "heroId": "ling",
+        "score": -0.4,
+        "reason": "Ling's wall-climb sidesteps Lancelot's dash chain before it connects."
+      },
+      {
+        "heroId": "gusion",
+        "score": 0.3,
+        "reason": "Lancelot's shield absorbs a large chunk of Gusion's opening burst combo."
+      },
+      {
+        "heroId": "beatrix",
+        "score": 0.4,
+        "reason": "Closes the gap fast enough to punish a positioned marksman before she can kite."
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "tigreal",
+        "score": 0.5,
+        "reason": "Tigreal's ultimate groups priority targets for Lancelot's follow-up burst."
+      },
+      {
+        "heroId": "mathilda",
+        "score": 0.4,
+        "reason": "Mathilda's dash extends Lancelot's effective engage range."
+      }
+    ]
+  },
+  {
+    "id": "claude",
+    "name": "Claude",
+    "imageAsset": "assets/heroes/claude.png",
+    "role": "gold",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "S",
+    "winRate": 50.8,
+    "pickRate": 11.4,
+    "banRate": 18.9,
+    "matchups": [
+      {
+        "heroId": "franco",
+        "score": -0.4,
+        "reason": "Limited escape once hooked out of his attack-speed rhythm."
+      },
+      {
+        "heroId": "beatrix",
+        "score": 0.2,
+        "reason": "Comparable range, but his clone lets him out-sustain her in a straight trade."
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "estes",
+        "score": 0.5,
+        "reason": "Estes' sustained healing keeps Claude alive through extended teamfights."
+      },
+      {
+        "heroId": "tigreal",
+        "score": 0.4,
+        "reason": "Tigreal peels dive threats off Claude so he can keep stacking damage."
+      }
+    ]
+  },
+  {
+    "id": "melissa",
+    "name": "Melissa",
+    "imageAsset": "assets/heroes/melissa.png",
+    "role": "gold",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "S+",
+    "winRate": 51.9,
+    "pickRate": 10.2,
+    "banRate": 22.4,
+    "matchups": [
+      {
+        "heroId": "franco",
+        "score": -0.3,
+        "reason": "Doll form doesn't stop a well-timed hook interrupting her rotation."
+      },
+      {
+        "heroId": "lancelot",
+        "score": -0.3,
+        "reason": "A fast assassin dive closes before her net can reposition."
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "atlas",
+        "score": 0.5,
+        "reason": "Atlas locks down divers so Melissa can kite and doll-swap freely."
+      },
+      {
+        "heroId": "mathilda",
+        "score": 0.4,
+        "reason": "Mathilda's shield covers Melissa's vulnerable doll-swap window."
+      }
+    ]
+  },
+  {
+    "id": "brody",
+    "name": "Brody",
+    "imageAsset": "assets/heroes/brody.png",
+    "role": "gold",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "A",
+    "winRate": 49.6,
+    "pickRate": 13.8,
+    "banRate": 9.7,
+    "matchups": [
+      {
+        "heroId": "franco",
+        "score": -0.3,
+        "reason": "A landed hook cancels his passive dash before it can trigger."
+      },
+      {
+        "heroId": "tigreal",
+        "score": 0.2,
+        "reason": "His passive dash punishes an overextended Tigreal engage."
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "estes",
+        "score": 0.4,
+        "reason": "Sustained healing offsets Brody's lack of a hard escape."
+      },
+      {
+        "heroId": "angela",
+        "score": 0.3,
+        "reason": "Angela's peel buys Brody time to land his full passive-dash combo."
+      }
+    ]
+  },
+  {
+    "id": "kagura",
+    "name": "Kagura",
+    "imageAsset": "assets/heroes/kagura.png",
+    "role": "mid",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "S",
+    "winRate": 51.1,
+    "pickRate": 9.9,
+    "banRate": 17.0,
+    "matchups": [
+      {
+        "heroId": "lylia",
+        "score": 0.3,
+        "reason": "Umbrella zoning out-ranges Lylia's summon field before it can lock her down."
+      },
+      {
+        "heroId": "gusion",
+        "score": -0.3,
+        "reason": "Gusion closes the gap before her umbrella-throw combo fully resolves."
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "tigreal",
+        "score": 0.4,
+        "reason": "Grouped targets from Tigreal's ult take full damage from her umbrella combo."
+      },
+      {
+        "heroId": "franco",
+        "score": 0.3,
+        "reason": "A hooked target has nowhere to dodge her follow-up umbrella throw."
+      }
+    ]
+  },
+  {
+    "id": "cecilion",
+    "name": "Cecilion",
+    "imageAsset": "assets/heroes/cecilion.png",
+    "role": "mid",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "A",
+    "winRate": 50.4,
+    "pickRate": 6.3,
+    "banRate": 8.1,
+    "matchups": [
+      {
+        "heroId": "kagura",
+        "score": -0.2,
+        "reason": "Kagura's mobile poke chips him down long before his stacks matter."
+      },
+      {
+        "heroId": "yve",
+        "score": 0.3,
+        "reason": "His sustained burst outscales her once he reaches a useful stack count."
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "estes",
+        "score": 0.5,
+        "reason": "Healing keeps a stationary Cecilion alive long enough to reach full stacks."
+      },
+      {
+        "heroId": "atlas",
+        "score": 0.4,
+        "reason": "Atlas' ultimate groups targets directly inside Cecilion's stacked ultimate."
+      }
+    ]
+  },
+  {
+    "id": "yve",
+    "name": "Yve",
+    "imageAsset": "assets/heroes/yve.png",
+    "role": "mid",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 48.9,
+    "pickRate": 4.2,
+    "banRate": 3.6,
+    "matchups": [
+      {
+        "heroId": "cecilion",
+        "score": -0.3,
+        "reason": "Gets out-scaled once Cecilion reaches a meaningful stack count."
+      },
+      {
+        "heroId": "lylia",
+        "score": 0.2,
+        "reason": "Superior poke range denies Lylia's summon-field lane presence."
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "franco",
+        "score": 0.3,
+        "reason": "A hooked target sits still long enough for her full constellation combo."
+      },
+      {
+        "heroId": "tigreal",
+        "score": 0.3,
+        "reason": "Grouped enemies from Tigreal's ult eat Yve's full line-shot damage."
+      }
+    ]
+  },
+  {
+    "id": "yu_zhong",
+    "name": "Yu Zhong",
+    "imageAsset": "assets/heroes/yu_zhong.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "S",
+    "winRate": 51.0,
+    "pickRate": 10.6,
+    "banRate": 14.3,
+    "matchups": [
+      {
+        "heroId": "paquito",
+        "score": -0.3,
+        "reason": "Paquito's true-damage combo punishes Yu Zhong's low early mobility."
+      },
+      {
+        "heroId": "khaleed",
+        "score": 0.4,
+        "reason": "Out-sustains Khaleed comfortably in extended lane trades."
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "atlas",
+        "score": 0.5,
+        "reason": "Ultimate synergy pulls the enemy backline straight into Yu Zhong's dragon dash."
+      },
+      {
+        "heroId": "angela",
+        "score": 0.3,
+        "reason": "Angela's peel lets him commit fully to a dragon-dash engage."
+      }
+    ]
+  },
+  {
+    "id": "paquito",
+    "name": "Paquito",
+    "imageAsset": "assets/heroes/paquito.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "S+",
+    "winRate": 51.7,
+    "pickRate": 14.9,
+    "banRate": 27.8,
+    "matchups": [
+      {
+        "heroId": "yu_zhong",
+        "score": 0.3,
+        "reason": "True-damage combo punishes Yu Zhong's weak early-game mobility."
+      },
+      {
+        "heroId": "terizla",
+        "score": 0.3,
+        "reason": "Superior mobility lets him dodge Terizla's slow, telegraphed combo."
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "mathilda",
+        "score": 0.4,
+        "reason": "Mathilda's dash and shield extend how deep Paquito can commit to a dive."
+      },
+      {
+        "heroId": "chou",
+        "score": 0.3,
+        "reason": "Chou's kick sets up a clean follow-up window for Paquito's combo."
+      }
+    ]
+  },
+  {
+    "id": "terizla",
+    "name": "Terizla",
+    "imageAsset": "assets/heroes/terizla.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "A",
+    "winRate": 50.1,
+    "pickRate": 7.5,
+    "banRate": 6.9,
+    "matchups": [
+      {
+        "heroId": "paquito",
+        "score": -0.3,
+        "reason": "Struggles to land his slow, telegraphed combo on a highly mobile target."
+      },
+      {
+        "heroId": "khaleed",
+        "score": 0.3,
+        "reason": "Tankier stats win a straight brawl against Khaleed."
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "tigreal",
+        "score": 0.4,
+        "reason": "Tigreal's ultimate lines enemies up for his sweeping hammer combo."
+      },
+      {
+        "heroId": "franco",
+        "score": 0.3,
+        "reason": "A hooked target can't escape before his hammer combo lands in full."
+      }
+    ]
+  },
+  {
+    "id": "khaleed",
+    "name": "Khaleed",
+    "imageAsset": "assets/heroes/khaleed.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 49.3,
+    "pickRate": 5.4,
+    "banRate": 4.0,
+    "matchups": [
+      {
+        "heroId": "yu_zhong",
+        "score": -0.4,
+        "reason": "Gets out-sustained in extended lane trades against Yu Zhong's regeneration."
+      },
+      {
+        "heroId": "terizla",
+        "score": -0.3,
+        "reason": "Loses a straight brawl to Terizla's tankier stat line."
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "angela",
+        "score": 0.3,
+        "reason": "Angela's shield extends Khaleed's sand-grenade engage window."
+      },
+      {
+        "heroId": "estes",
+        "score": 0.3,
+        "reason": "Healing offsets Khaleed's lack of a defensive skill in extended trades."
+      }
+    ]
+  },
+  {
+    "id": "tigreal",
+    "name": "Tigreal",
+    "imageAsset": "assets/heroes/tigreal.png",
+    "role": "roam",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 49.1,
+    "pickRate": 8.0,
+    "banRate": 3.2,
+    "matchups": [
+      {
+        "heroId": "fanny",
+        "score": 0.3,
+        "reason": "His ultimate interrupts Fanny's cable movement mid-combo."
+      },
+      {
+        "heroId": "beatrix",
+        "score": 0.3,
+        "reason": "A landed ultimate locks Beatrix down before she can reposition."
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "lancelot",
+        "score": 0.5,
+        "reason": "Groups priority targets for Lancelot's follow-up burst combo."
+      },
+      {
+        "heroId": "kagura",
+        "score": 0.4,
+        "reason": "Grouped enemies eat the full damage of Kagura's umbrella combo."
+      },
+      {
+        "heroId": "terizla",
+        "score": 0.4,
+        "reason": "Lines enemies up perfectly for Terizla's sweeping hammer combo."
+      }
+    ]
+  },
+  {
+    "id": "atlas",
+    "name": "Atlas",
+    "imageAsset": "assets/heroes/atlas.png",
+    "role": "roam",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "S",
+    "winRate": 51.3,
+    "pickRate": 7.2,
+    "banRate": 11.6,
+    "matchups": [
+      {
+        "heroId": "melissa",
+        "score": 0.3,
+        "reason": "His ultimate locks down mobile marksmen who rely on kiting."
+      },
+      {
+        "heroId": "claude",
+        "score": 0.2,
+        "reason": "A landed ultimate strips Claude's spacing advantage entirely."
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "ling",
+        "score": 0.6,
+        "reason": "His ultimate groups the whole enemy team for Ling's follow-up ultimate."
+      },
+      {
+        "heroId": "yu_zhong",
+        "score": 0.5,
+        "reason": "Pulls the backline straight into Yu Zhong's dragon-dash engage."
+      },
+      {
+        "heroId": "cecilion",
+        "score": 0.4,
+        "reason": "Groups targets directly inside Cecilion's stacked ultimate."
+      }
+    ]
+  },
+  {
+    "id": "estes",
+    "name": "Estes",
+    "imageAsset": "assets/heroes/estes.png",
+    "role": "roam",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "A",
+    "winRate": 50.0,
+    "pickRate": 6.1,
+    "banRate": 2.8,
+    "matchups": [
+      {
+        "heroId": "franco",
+        "score": -0.2,
+        "reason": "Sustained healing doesn't stop a clean hook pick before help arrives."
+      },
+      {
+        "heroId": "beatrix",
+        "score": 0.2,
+        "reason": "Continuous team healing offsets Beatrix's sustained poke damage."
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "claude",
+        "score": 0.5,
+        "reason": "Sustained healing keeps a marksman alive through extended teamfights."
+      },
+      {
+        "heroId": "cecilion",
+        "score": 0.5,
+        "reason": "Lets a stationary mage stay alive long enough to reach full stacks."
+      },
+      {
+        "heroId": "khaleed",
+        "score": 0.3,
+        "reason": "Offsets Khaleed's lack of a defensive skill during extended trades."
+      }
+    ]
+  },
+  {
+    "id": "mathilda",
+    "name": "Mathilda",
+    "imageAsset": "assets/heroes/mathilda.png",
+    "role": "roam",
+    "flexRoles": [
+      "jungle"
+    ],
+    "damageType": "magic",
+    "metaTier": "S",
+    "winRate": 51.6,
+    "pickRate": 8.9,
+    "banRate": 19.5,
+    "matchups": [
+      {
+        "heroId": "franco",
+        "score": 0.3,
+        "reason": "Her dash range makes it easy to dodge incoming hook trajectories."
+      },
+      {
+        "heroId": "angela",
+        "score": 0.2,
+        "reason": "Mobility lets her disengage before a merged diver commits fully."
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "melissa",
+        "score": 0.4,
+        "reason": "Her shield covers Melissa's vulnerable doll-swap window."
+      },
+      {
+        "heroId": "lancelot",
+        "score": 0.4,
+        "reason": "Her dash extends Lancelot's effective engage range."
+      },
+      {
+        "heroId": "paquito",
+        "score": 0.4,
+        "reason": "Her dash and shield extend how deep Paquito can commit to a dive."
+      }
+    ]
+  },
+  {
+    "id": "alucard",
+    "name": "Alucard",
+    "imageAsset": "assets/heroes/alucard.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "balmond",
+    "name": "Balmond",
+    "imageAsset": "assets/heroes/balmond.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "zilong",
+    "name": "Zilong",
+    "imageAsset": "assets/heroes/zilong.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "freya",
+    "name": "Freya",
+    "imageAsset": "assets/heroes/freya.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "sun",
+    "name": "Sun",
+    "imageAsset": "assets/heroes/sun.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "alpha",
+    "name": "Alpha",
+    "imageAsset": "assets/heroes/alpha.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "ruby",
+    "name": "Ruby",
+    "imageAsset": "assets/heroes/ruby.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 49.55,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [
+      {
+        "heroId": "chou",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "sun",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "zilong",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "minsitthar",
+        "score": -0.4,
+        "reason": ""
+      },
+      {
+        "heroId": "khufra",
+        "score": -0.5,
+        "reason": ""
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "tigreal",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "atlas",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "angela",
+        "score": 0.6,
+        "reason": ""
+      }
+    ]
+  },
+  {
+    "id": "hilda",
+    "name": "Hilda",
+    "imageAsset": "assets/heroes/hilda.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.16,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [
+      {
+        "heroId": "gusion",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "fanny",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "terizla",
+        "score": -0.4,
+        "reason": ""
+      },
+      {
+        "heroId": "belerick",
+        "score": -0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "valir",
+        "score": -0.6,
+        "reason": ""
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "angela",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "mathilda",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "saber",
+        "score": 0.5,
+        "reason": ""
+      }
+    ]
+  },
+  {
+    "id": "lapu_lapu",
+    "name": "Lapu-Lapu",
+    "imageAsset": "assets/heroes/lapu_lapu.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "C",
+    "winRate": 48.78,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [
+      {
+        "heroId": "beatrix",
+        "score": 0.4,
+        "reason": ""
+      },
+      {
+        "heroId": "layla",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "terizla",
+        "score": -0.4,
+        "reason": ""
+      },
+      {
+        "heroId": "ruby",
+        "score": -0.4,
+        "reason": ""
+      },
+      {
+        "heroId": "phoveus",
+        "score": -0.6,
+        "reason": ""
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "angela",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "tigreal",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "atlas",
+        "score": 0.5,
+        "reason": ""
+      }
+    ]
+  },
+  {
+    "id": "argus",
+    "name": "Argus",
+    "imageAsset": "assets/heroes/argus.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "S",
+    "winRate": 55.35,
+    "pickRate": 0.6,
+    "banRate": 0.0,
+    "matchups": [
+      {
+        "heroId": "zilong",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "sun",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "minsitthar",
+        "score": -0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "akai",
+        "score": -0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "valir",
+        "score": -0.6,
+        "reason": ""
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "angela",
+        "score": 0.7,
+        "reason": ""
+      },
+      {
+        "heroId": "rafaela",
+        "score": 0.7,
+        "reason": ""
+      },
+      {
+        "heroId": "floryn",
+        "score": 0.6,
+        "reason": ""
+      }
+    ]
+  },
+  {
+    "id": "jawhead",
+    "name": "Jawhead",
+    "imageAsset": "assets/heroes/jawhead.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "C",
+    "winRate": 46.81,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [
+      {
+        "heroId": "fanny",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "ling",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "minsitthar",
+        "score": -0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "belerick",
+        "score": -0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "khufra",
+        "score": -0.5,
+        "reason": ""
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "saber",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "eudora",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "gusion",
+        "score": 0.5,
+        "reason": ""
+      }
+    ]
+  },
+  {
+    "id": "martis",
+    "name": "Martis",
+    "imageAsset": "assets/heroes/martis.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "C",
+    "winRate": 46.75,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [
+      {
+        "heroId": "chou",
+        "score": 0.4,
+        "reason": ""
+      },
+      {
+        "heroId": "hirara",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "minsitthar",
+        "score": -0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "phoveus",
+        "score": -0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "terizla",
+        "score": -0.5,
+        "reason": ""
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "angela",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "hirara",
+        "score": 0.7,
+        "reason": ""
+      },
+      {
+        "heroId": "floryn",
+        "score": 0.5,
+        "reason": ""
+      }
+    ]
+  },
+  {
+    "id": "aldous",
+    "name": "Aldous",
+    "imageAsset": "assets/heroes/aldous.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.84,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [
+      {
+        "heroId": "masha",
+        "score": 0.7,
+        "reason": ""
+      },
+      {
+        "heroId": "belerick",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "hirara",
+        "score": -0.7,
+        "reason": ""
+      },
+      {
+        "heroId": "akai",
+        "score": -0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "minsitthar",
+        "score": -0.5,
+        "reason": ""
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "gloo",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "angela",
+        "score": 0.7,
+        "reason": ""
+      },
+      {
+        "heroId": "estes",
+        "score": 0.5,
+        "reason": ""
+      }
+    ]
+  },
+  {
+    "id": "leomord",
+    "name": "Leomord",
+    "imageAsset": "assets/heroes/leomord.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.45,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [
+      {
+        "heroId": "beatrix",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "layla",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "minsitthar",
+        "score": -0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "khufra",
+        "score": -0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "chou",
+        "score": -0.4,
+        "reason": ""
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "angela",
+        "score": 0.7,
+        "reason": ""
+      },
+      {
+        "heroId": "floryn",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "tigreal",
+        "score": 0.5,
+        "reason": ""
+      }
+    ]
+  },
+  {
+    "id": "thamuz",
+    "name": "Thamuz",
+    "imageAsset": "assets/heroes/thamuz.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "C",
+    "winRate": 48.25,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [
+      {
+        "heroId": "balmond",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "sun",
+        "score": 0.4,
+        "reason": ""
+      },
+      {
+        "heroId": "hirara",
+        "score": -0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "valir",
+        "score": -0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "lunox",
+        "score": -0.5,
+        "reason": ""
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "angela",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "floryn",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "estes",
+        "score": 0.5,
+        "reason": ""
+      }
+    ]
+  },
+  {
+    "id": "minsitthar",
+    "name": "Minsitthar",
+    "imageAsset": "assets/heroes/minsitthar.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.94,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [
+      {
+        "heroId": "fanny",
+        "score": 0.7,
+        "reason": ""
+      },
+      {
+        "heroId": "lancelot",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "chou",
+        "score": 0.7,
+        "reason": ""
+      },
+      {
+        "heroId": "gusion",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "freya",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "zilong",
+        "score": 0.7,
+        "reason": ""
+      },
+      {
+        "heroId": "lunox",
+        "score": -0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "kagura",
+        "score": -0.5,
+        "reason": ""
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "tigreal",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "atlas",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "beatrix",
+        "score": 0.5,
+        "reason": ""
+      }
+    ]
+  },
+  {
+    "id": "badang",
+    "name": "Badang",
+    "imageAsset": "assets/heroes/badang.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.12,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [
+      {
+        "heroId": "layla",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "miya",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "khufra",
+        "score": -0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "chou",
+        "score": -0.4,
+        "reason": ""
+      },
+      {
+        "heroId": "ruby",
+        "score": -0.5,
+        "reason": ""
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "tigreal",
+        "score": 0.7,
+        "reason": ""
+      },
+      {
+        "heroId": "atlas",
+        "score": 0.7,
+        "reason": ""
+      },
+      {
+        "heroId": "minotaur",
+        "score": 0.6,
+        "reason": ""
+      }
+    ]
+  },
+  {
+    "id": "guinevere",
+    "name": "Guinevere",
+    "imageAsset": "assets/heroes/guinevere.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "A",
+    "winRate": 51.38,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [
+      {
+        "heroId": "miya",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "layla",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "diggie",
+        "score": -0.7,
+        "reason": ""
+      },
+      {
+        "heroId": "minsitthar",
+        "score": -0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "helcurt",
+        "score": -0.5,
+        "reason": ""
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "tigreal",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "atlas",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "angela",
+        "score": 0.6,
+        "reason": ""
+      }
+    ]
+  },
+  {
+    "id": "dyrroth",
+    "name": "Dyrroth",
+    "imageAsset": "assets/heroes/dyrroth.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "C",
+    "winRate": 47.3,
+    "pickRate": 1.6,
+    "banRate": 0.0,
+    "matchups": [
+      {
+        "heroId": "lukas",
+        "score": 0.4,
+        "reason": ""
+      },
+      {
+        "heroId": "balmond",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "ruby",
+        "score": -0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "terizla",
+        "score": -0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "valir",
+        "score": -0.6,
+        "reason": ""
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "lukas",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "angela",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "floryn",
+        "score": 0.5,
+        "reason": ""
+      }
+    ]
+  },
+  {
+    "id": "x_borg",
+    "name": "X.Borg",
+    "imageAsset": "assets/heroes/x_borg.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 49.73,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [
+      {
+        "heroId": "sun",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "belerick",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "eudora",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "paquito",
+        "score": -0.6,
+        "reason": ""
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "paquito",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "angela",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "floryn",
+        "score": 0.6,
+        "reason": ""
+      }
+    ]
+  },
+  {
+    "id": "phoveus",
+    "name": "Phoveus",
+    "imageAsset": "assets/heroes/phoveus.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "C",
+    "winRate": 47.77,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [
+      {
+        "heroId": "chou",
+        "score": 0.7,
+        "reason": ""
+      },
+      {
+        "heroId": "lancelot",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "harith",
+        "score": 0.7,
+        "reason": ""
+      },
+      {
+        "heroId": "wanwan",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "terizla",
+        "score": -0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "esmeralda",
+        "score": -0.6,
+        "reason": ""
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "tigreal",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "atlas",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "minotaur",
+        "score": 0.5,
+        "reason": ""
+      }
+    ]
+  },
+  {
+    "id": "yin",
+    "name": "Yin",
+    "imageAsset": "assets/heroes/yin.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "C",
+    "winRate": 48.3,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [
+      {
+        "heroId": "layla",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "miya",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "minsitthar",
+        "score": -0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "khufra",
+        "score": -0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "diggie",
+        "score": -0.6,
+        "reason": ""
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "angela",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "floryn",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "eudora",
+        "score": 0.5,
+        "reason": ""
+      }
+    ]
+  },
+  {
+    "id": "roger",
+    "name": "Roger",
+    "imageAsset": "assets/heroes/roger.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "C",
+    "winRate": 49.27,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [
+      {
+        "heroId": "layla",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "beatrix",
+        "score": 0.4,
+        "reason": ""
+      },
+      {
+        "heroId": "khufra",
+        "score": -0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "minsitthar",
+        "score": -0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "saber",
+        "score": -0.5,
+        "reason": ""
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "angela",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "mathilda",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "floryn",
+        "score": 0.5,
+        "reason": ""
+      }
+    ]
+  },
+  {
+    "id": "sora",
+    "name": "Sora",
+    "imageAsset": "assets/heroes/sora.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 49.57,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [
+      {
+        "heroId": "layla",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "miya",
+        "score": 0.4,
+        "reason": ""
+      },
+      {
+        "heroId": "saber",
+        "score": -0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "khufra",
+        "score": -0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "minsitthar",
+        "score": -0.5,
+        "reason": ""
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "angela",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "floryn",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "tigreal",
+        "score": 0.5,
+        "reason": ""
+      }
+    ]
+  },
+  {
+    "id": "fredrinn",
+    "name": "Fredrinn",
+    "imageAsset": "assets/heroes/fredrinn.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 51.42,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [
+      {
+        "heroId": "gusion",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "paquito",
+        "score": 0.4,
+        "reason": ""
+      },
+      {
+        "heroId": "lunox",
+        "score": -0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "karrie",
+        "score": -0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "valir",
+        "score": -0.5,
+        "reason": ""
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "angela",
+        "score": 0.7,
+        "reason": ""
+      },
+      {
+        "heroId": "floryn",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "estes",
+        "score": 0.6,
+        "reason": ""
+      }
+    ]
+  },
+  {
+    "id": "julian",
+    "name": "Julian",
+    "imageAsset": "assets/heroes/julian.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 49.9,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [
+      {
+        "heroId": "layla",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "beatrix",
+        "score": 0.4,
+        "reason": ""
+      },
+      {
+        "heroId": "saber",
+        "score": -0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "khufra",
+        "score": -0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "minsitthar",
+        "score": -0.5,
+        "reason": ""
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "angela",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "mathilda",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "tigreal",
+        "score": 0.5,
+        "reason": ""
+      }
+    ]
+  },
+  {
+    "id": "arlott",
+    "name": "Arlott",
+    "imageAsset": "assets/heroes/arlott.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "C",
+    "winRate": 47.98,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [
+      {
+        "heroId": "chou",
+        "score": 0.4,
+        "reason": ""
+      },
+      {
+        "heroId": "lukas",
+        "score": 0.4,
+        "reason": ""
+      },
+      {
+        "heroId": "minsitthar",
+        "score": -0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "phoveus",
+        "score": -0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "khufra",
+        "score": -0.5,
+        "reason": ""
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "lukas",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "tigreal",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "atlas",
+        "score": 0.6,
+        "reason": ""
+      }
+    ]
+  },
+  {
+    "id": "bane",
+    "name": "Bane",
+    "imageAsset": "assets/heroes/bane.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.92,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [
+      {
+        "heroId": "balmond",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "eudora",
+        "score": 0.4,
+        "reason": ""
+      },
+      {
+        "heroId": "gloo",
+        "score": 0.4,
+        "reason": ""
+      },
+      {
+        "heroId": "saber",
+        "score": -0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "chou",
+        "score": -0.4,
+        "reason": ""
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "paquito",
+        "score": 0.4,
+        "reason": ""
+      },
+      {
+        "heroId": "gloo",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "eudora",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "masha",
+        "score": 0.5,
+        "reason": ""
+      }
+    ]
+  },
+  {
+    "id": "silvanna",
+    "name": "Silvanna",
+    "imageAsset": "assets/heroes/silvanna.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.46,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [
+      {
+        "heroId": "balmond",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "zilong",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "diggie",
+        "score": -0.7,
+        "reason": ""
+      },
+      {
+        "heroId": "minsitthar",
+        "score": -0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "ruby",
+        "score": -0.5,
+        "reason": ""
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "angela",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "tigreal",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "atlas",
+        "score": 0.5,
+        "reason": ""
+      }
+    ]
+  },
+  {
+    "id": "masha",
+    "name": "Masha",
+    "imageAsset": "assets/heroes/masha.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "S+",
+    "winRate": 58.72,
+    "pickRate": 0.72,
+    "banRate": 24.89,
+    "matchups": [
+      {
+        "heroId": "atlas",
+        "score": 0.7,
+        "reason": ""
+      },
+      {
+        "heroId": "gloo",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "cici",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "eudora",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "aldous",
+        "score": -0.7,
+        "reason": ""
+      },
+      {
+        "heroId": "estes",
+        "score": -0.7,
+        "reason": ""
+      },
+      {
+        "heroId": "mathilda",
+        "score": -0.6,
+        "reason": ""
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "alice",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "bane",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "angela",
+        "score": 0.6,
+        "reason": ""
+      }
+    ]
+  },
+  {
+    "id": "saber",
+    "name": "Saber",
+    "imageAsset": "assets/heroes/saber.png",
+    "role": "jungle",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 48.93,
+    "pickRate": 0.0,
+    "banRate": 21.46,
+    "matchups": [
+      {
+        "heroId": "marcel",
+        "score": 0.8,
+        "reason": ""
+      },
+      {
+        "heroId": "hirara",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "fanny",
+        "score": 0.7,
+        "reason": ""
+      },
+      {
+        "heroId": "ling",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "paquito",
+        "score": 0.4,
+        "reason": ""
+      },
+      {
+        "heroId": "belerick",
+        "score": -0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "diggie",
+        "score": -0.7,
+        "reason": ""
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "marcel",
+        "score": 0.7,
+        "reason": ""
+      },
+      {
+        "heroId": "eudora",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "franco",
+        "score": 0.5,
+        "reason": ""
+      }
+    ]
+  },
+  {
+    "id": "karina",
+    "name": "Karina",
+    "imageAsset": "assets/heroes/karina.png",
+    "role": "jungle",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "C",
+    "winRate": 47.45,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [
+      {
+        "heroId": "miya",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "layla",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "gloo",
+        "score": -0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "paquito",
+        "score": -0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "saber",
+        "score": -0.5,
+        "reason": ""
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "angela",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "mathilda",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "floryn",
+        "score": 0.5,
+        "reason": ""
+      }
+    ]
+  },
+  {
+    "id": "natalia",
+    "name": "Natalia",
+    "imageAsset": "assets/heroes/natalia.png",
+    "role": "jungle",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.85,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [
+      {
+        "heroId": "layla",
+        "score": 0.7,
+        "reason": ""
+      },
+      {
+        "heroId": "beatrix",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "rafaela",
+        "score": -0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "paquito",
+        "score": -0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "belerick",
+        "score": -0.5,
+        "reason": ""
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "marcel",
+        "score": 0.8,
+        "reason": ""
+      },
+      {
+        "heroId": "belerick",
+        "score": 0.7,
+        "reason": ""
+      },
+      {
+        "heroId": "gloo",
+        "score": 0.6,
+        "reason": ""
+      }
+    ]
+  },
+  {
+    "id": "hayabusa",
+    "name": "Hayabusa",
+    "imageAsset": "assets/heroes/hayabusa.png",
+    "role": "jungle",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "C",
+    "winRate": 48.33,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [
+      {
+        "heroId": "beatrix",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "layla",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "saber",
+        "score": -0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "khufra",
+        "score": -0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "minsitthar",
+        "score": -0.5,
+        "reason": ""
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "angela",
+        "score": 0.7,
+        "reason": ""
+      },
+      {
+        "heroId": "floryn",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "mathilda",
+        "score": 0.6,
+        "reason": ""
+      }
+    ]
+  },
+  {
+    "id": "helcurt",
+    "name": "Helcurt",
+    "imageAsset": "assets/heroes/helcurt.png",
+    "role": "jungle",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "C",
+    "winRate": 46.96,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [
+      {
+        "heroId": "valentina",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "gord",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "belerick",
+        "score": -0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "saber",
+        "score": -0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "diggie",
+        "score": -0.5,
+        "reason": ""
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "angela",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "eudora",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "franco",
+        "score": 0.5,
+        "reason": ""
+      }
+    ]
+  },
+  {
+    "id": "selena",
+    "name": "Selena",
+    "imageAsset": "assets/heroes/selena.png",
+    "role": "jungle",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 49.38,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [
+      {
+        "heroId": "layla",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "gord",
+        "score": 0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "diggie",
+        "score": -0.7,
+        "reason": ""
+      },
+      {
+        "heroId": "belerick",
+        "score": -0.5,
+        "reason": ""
+      },
+      {
+        "heroId": "saber",
+        "score": -0.5,
+        "reason": ""
+      }
+    ],
+    "synergies": [
+      {
+        "heroId": "franco",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "eudora",
+        "score": 0.6,
+        "reason": ""
+      },
+      {
+        "heroId": "saber",
+        "score": 0.5,
+        "reason": ""
+      }
+    ]
+  },
+  {
+    "id": "hanzo",
+    "name": "Hanzo",
+    "imageAsset": "assets/heroes/hanzo.png",
+    "role": "jungle",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "benedetta",
+    "name": "Benedetta",
+    "imageAsset": "assets/heroes/benedetta.png",
+    "role": "jungle",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "aamon",
+    "name": "Aamon",
+    "imageAsset": "assets/heroes/aamon.png",
+    "role": "jungle",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "wukong",
+    "name": "Wukong",
+    "imageAsset": "assets/heroes/wukong.png",
+    "role": "jungle",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "joy",
+    "name": "Joy",
+    "imageAsset": "assets/heroes/joy.png",
+    "role": "jungle",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "yi_sun_shin",
+    "name": "Yi Sun-shin",
+    "imageAsset": "assets/heroes/yi_sun_shin.png",
+    "role": "jungle",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "harley",
+    "name": "Harley",
+    "imageAsset": "assets/heroes/harley.png",
+    "role": "jungle",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "nolan",
+    "name": "Nolan",
+    "imageAsset": "assets/heroes/nolan.png",
+    "role": "jungle",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "suyou",
+    "name": "Suyou",
+    "imageAsset": "assets/heroes/suyou.png",
+    "role": "jungle",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "eudora",
+    "name": "Eudora",
+    "imageAsset": "assets/heroes/eudora.png",
+    "role": "mid",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "nana",
+    "name": "Nana",
+    "imageAsset": "assets/heroes/nana.png",
+    "role": "mid",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "alice",
+    "name": "Alice",
+    "imageAsset": "assets/heroes/alice.png",
+    "role": "mid",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "vexana",
+    "name": "Vexana",
+    "imageAsset": "assets/heroes/vexana.png",
+    "role": "mid",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "zhask",
+    "name": "Zhask",
+    "imageAsset": "assets/heroes/zhask.png",
+    "role": "mid",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "aurora",
+    "name": "Aurora",
+    "imageAsset": "assets/heroes/aurora.png",
+    "role": "mid",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "chang_e",
+    "name": "Chang'e",
+    "imageAsset": "assets/heroes/chang_e.png",
+    "role": "mid",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "gord",
+    "name": "Gord",
+    "imageAsset": "assets/heroes/gord.png",
+    "role": "mid",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "faramis",
+    "name": "Faramis",
+    "imageAsset": "assets/heroes/faramis.png",
+    "role": "mid",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "luo_yi",
+    "name": "Luo Yi",
+    "imageAsset": "assets/heroes/luo_yi.png",
+    "role": "mid",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "pharsa",
+    "name": "Pharsa",
+    "imageAsset": "assets/heroes/pharsa.png",
+    "role": "mid",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "harith",
+    "name": "Harith",
+    "imageAsset": "assets/heroes/harith.png",
+    "role": "mid",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "odette",
+    "name": "Odette",
+    "imageAsset": "assets/heroes/odette.png",
+    "role": "mid",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "cyclops",
+    "name": "Cyclops",
+    "imageAsset": "assets/heroes/cyclops.png",
+    "role": "mid",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "valir",
+    "name": "Valir",
+    "imageAsset": "assets/heroes/valir.png",
+    "role": "mid",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "lunox",
+    "name": "Lunox",
+    "imageAsset": "assets/heroes/lunox.png",
+    "role": "mid",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "xavier",
+    "name": "Xavier",
+    "imageAsset": "assets/heroes/xavier.png",
+    "role": "mid",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "novaria",
+    "name": "Novaria",
+    "imageAsset": "assets/heroes/novaria.png",
+    "role": "mid",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "zhuxin",
+    "name": "Zhuxin",
+    "imageAsset": "assets/heroes/zhuxin.png",
+    "role": "mid",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "zetian",
+    "name": "Zetian",
+    "imageAsset": "assets/heroes/zetian.png",
+    "role": "mid",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "miya",
+    "name": "Miya",
+    "imageAsset": "assets/heroes/miya.png",
+    "role": "gold",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "bruno",
+    "name": "Bruno",
+    "imageAsset": "assets/heroes/bruno.png",
+    "role": "gold",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "clint",
+    "name": "Clint",
+    "imageAsset": "assets/heroes/clint.png",
+    "role": "gold",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "layla",
+    "name": "Layla",
+    "imageAsset": "assets/heroes/layla.png",
+    "role": "gold",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "moskov",
+    "name": "Moskov",
+    "imageAsset": "assets/heroes/moskov.png",
+    "role": "gold",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "karrie",
+    "name": "Karrie",
+    "imageAsset": "assets/heroes/karrie.png",
+    "role": "gold",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "irithel",
+    "name": "Irithel",
+    "imageAsset": "assets/heroes/irithel.png",
+    "role": "gold",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "hanabi",
+    "name": "Hanabi",
+    "imageAsset": "assets/heroes/hanabi.png",
+    "role": "gold",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "granger",
+    "name": "Granger",
+    "imageAsset": "assets/heroes/granger.png",
+    "role": "gold",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "wanwan",
+    "name": "Wanwan",
+    "imageAsset": "assets/heroes/wanwan.png",
+    "role": "gold",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "popol_and_kupa",
+    "name": "Popol and Kupa",
+    "imageAsset": "assets/heroes/popol_and_kupa.png",
+    "role": "gold",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "lesley",
+    "name": "Lesley",
+    "imageAsset": "assets/heroes/lesley.png",
+    "role": "gold",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "kimmy",
+    "name": "Kimmy",
+    "imageAsset": "assets/heroes/kimmy.png",
+    "role": "gold",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "natan",
+    "name": "Natan",
+    "imageAsset": "assets/heroes/natan.png",
+    "role": "gold",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "akai",
+    "name": "Akai",
+    "imageAsset": "assets/heroes/akai.png",
+    "role": "roam",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "johnson",
+    "name": "Johnson",
+    "imageAsset": "assets/heroes/johnson.png",
+    "role": "roam",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "belerick",
+    "name": "Belerick",
+    "imageAsset": "assets/heroes/belerick.png",
+    "role": "roam",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "gatotkaca",
+    "name": "Gatotkaca",
+    "imageAsset": "assets/heroes/gatotkaca.png",
+    "role": "roam",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "grock",
+    "name": "Grock",
+    "imageAsset": "assets/heroes/grock.png",
+    "role": "roam",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "khufra",
+    "name": "Khufra",
+    "imageAsset": "assets/heroes/khufra.png",
+    "role": "roam",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "uranus",
+    "name": "Uranus",
+    "imageAsset": "assets/heroes/uranus.png",
+    "role": "roam",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "baxia",
+    "name": "Baxia",
+    "imageAsset": "assets/heroes/baxia.png",
+    "role": "roam",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "hylos",
+    "name": "Hylos",
+    "imageAsset": "assets/heroes/hylos.png",
+    "role": "roam",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "barats",
+    "name": "Barats",
+    "imageAsset": "assets/heroes/barats.png",
+    "role": "roam",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "edith",
+    "name": "Edith",
+    "imageAsset": "assets/heroes/edith.png",
+    "role": "roam",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "gloo",
+    "name": "Gloo",
+    "imageAsset": "assets/heroes/gloo.png",
+    "role": "roam",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "minotaur",
+    "name": "Minotaur",
+    "imageAsset": "assets/heroes/minotaur.png",
+    "role": "roam",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "carmilla",
+    "name": "Carmilla",
+    "imageAsset": "assets/heroes/carmilla.png",
+    "role": "roam",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "rafaela",
+    "name": "Rafaela",
+    "imageAsset": "assets/heroes/rafaela.png",
+    "role": "roam",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "diggie",
+    "name": "Diggie",
+    "imageAsset": "assets/heroes/diggie.png",
+    "role": "roam",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "floryn",
+    "name": "Floryn",
+    "imageAsset": "assets/heroes/floryn.png",
+    "role": "roam",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "lolita",
+    "name": "Lolita",
+    "imageAsset": "assets/heroes/lolita.png",
+    "role": "roam",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "chip",
+    "name": "Chip",
+    "imageAsset": "assets/heroes/chip.png",
+    "role": "roam",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "aulus",
+    "name": "Aulus",
+    "imageAsset": "assets/heroes/aulus.png",
+    "role": "jungle",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "cici",
+    "name": "Cici",
+    "imageAsset": "assets/heroes/cici.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "esmeralda",
+    "name": "Esmeralda",
+    "imageAsset": "assets/heroes/esmeralda.png",
+    "role": "exp",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "hirara",
+    "name": "Hirara",
+    "imageAsset": "assets/heroes/hirara.png",
+    "role": "jungle",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "ixia",
+    "name": "Ixia",
+    "imageAsset": "assets/heroes/ixia.png",
+    "role": "gold",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "kadita",
+    "name": "Kadita",
+    "imageAsset": "assets/heroes/kadita.png",
+    "role": "mid",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "kaja",
+    "name": "Kaja",
+    "imageAsset": "assets/heroes/kaja.png",
+    "role": "roam",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "kalea",
+    "name": "Kalea",
+    "imageAsset": "assets/heroes/kalea.png",
+    "role": "roam",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "lukas",
+    "name": "Lukas",
+    "imageAsset": "assets/heroes/lukas.png",
+    "role": "exp",
+    "flexRoles": [
+      "jungle"
+    ],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "marcel",
+    "name": "Marcel",
+    "imageAsset": "assets/heroes/marcel.png",
+    "role": "roam",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "obsidia",
+    "name": "Obsidia",
+    "imageAsset": "assets/heroes/obsidia.png",
+    "role": "gold",
+    "flexRoles": [],
+    "damageType": "physical",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  },
+  {
+    "id": "vale",
+    "name": "Vale",
+    "imageAsset": "assets/heroes/vale.png",
+    "role": "mid",
+    "flexRoles": [],
+    "damageType": "magic",
+    "metaTier": "B",
+    "winRate": 50.0,
+    "pickRate": 0.0,
+    "banRate": 0.0,
+    "matchups": [],
+    "synergies": []
+  }
+]
