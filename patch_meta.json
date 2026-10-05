@@ -2,6 +2,6 @@
   "latest_patch": "2.2.16",
   "hero_count": 134,
   "heroes_file": "heroes.json",
-  "checksum_sha256": "c7f1d8ccae68052f19a11477a6c85184ec4755162f2d35d5e2986607e114a375",
-  "built_at": "2026-10-03T19:14:07+00:00"
+  "checksum_sha256": "68336392c634360562252e1bc0ad3e462e9a82432ec052fc85404910a4836138",
+  "built_at": "2026-10-05T00:46:07+00:00"
 }

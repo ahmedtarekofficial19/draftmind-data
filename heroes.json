@@ -47,6 +47,108 @@
         "heroId": "chou",
         "score": -0.5,
         "reason": "Fanny out-mobilizes Chou in open terrain and can disengage before his combo lands."
+      },
+      {
+        "heroId": "franco",
+        "score": -0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "cecilion",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "yve",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "hilda",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "jawhead",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "minsitthar",
+        "score": -0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "hanzo",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "aurora",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "gord",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "luo_yi",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "pharsa",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "cyclops",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "xavier",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "zetian",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "popol_and_kupa",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "minotaur",
+        "score": -0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "kaja",
+        "score": -0.6,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -115,6 +217,96 @@
         "heroId": "minsitthar",
         "score": -0.7,
         "reason": ""
+      },
+      {
+        "heroId": "lylia",
+        "score": 0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "kagura",
+        "score": 0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "alucard",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "zilong",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "freya",
+        "score": 0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "ruby",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "martis",
+        "score": -0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "leomord",
+        "score": 0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "badang",
+        "score": 0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "arlott",
+        "score": -0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "bane",
+        "score": 0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "benedetta",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "joy",
+        "score": -0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "nana",
+        "score": -0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "odette",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -198,6 +390,66 @@
         "heroId": "cecilion",
         "score": 0.5,
         "reason": ""
+      },
+      {
+        "heroId": "brody",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "saber",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "helcurt",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "selena",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "harley",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "novaria",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "bruno",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "clint",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "granger",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "popol_and_kupa",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
       }
     ]
   },
@@ -249,6 +501,24 @@
         "heroId": "ruby",
         "score": -0.4,
         "reason": ""
+      },
+      {
+        "heroId": "hilda",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "fredrinn",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "barats",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -266,6 +536,18 @@
         "heroId": "tigreal",
         "score": 0.5,
         "reason": ""
+      },
+      {
+        "heroId": "franco",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "jawhead",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
       }
     ]
   },
@@ -310,6 +592,24 @@
         "heroId": "chou",
         "score": -0.4,
         "reason": ""
+      },
+      {
+        "heroId": "valentina",
+        "score": 0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "tigreal",
+        "score": 0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "alpha",
+        "score": 0.4,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -388,6 +688,438 @@
         "heroId": "hirara",
         "score": 0.8,
         "reason": ""
+      },
+      {
+        "heroId": "gusion",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "valentina",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "lancelot",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "claude",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "melissa",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "brody",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "yu_zhong",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "terizla",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "khaleed",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "alucard",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "balmond",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "zilong",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "freya",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "sun",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "alpha",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "ruby",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "hilda",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "lapu_lapu",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "argus",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "martis",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "aldous",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "leomord",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "thamuz",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "guinevere",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "dyrroth",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "x_borg",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "yin",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "roger",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "sora",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "fredrinn",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "julian",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "silvanna",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "masha",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "karina",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "hayabusa",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "helcurt",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "hanzo",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "benedetta",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "aamon",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "wukong",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "joy",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "yi_sun_shin",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "harley",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "nolan",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "suyou",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "chang_e",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "harith",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "cyclops",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "lunox",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "miya",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "moskov",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "karrie",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "irithel",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "granger",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "wanwan",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "popol_and_kupa",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "lesley",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "kimmy",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "natan",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "akai",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "grock",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "khufra",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "uranus",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "baxia",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "hylos",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "barats",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "edith",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "chip",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "aulus",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "cici",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "esmeralda",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "kalea",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
       }
     ]
   },
@@ -432,6 +1164,108 @@
         "heroId": "paquito",
         "score": -0.5,
         "reason": ""
+      },
+      {
+        "heroId": "melissa",
+        "score": 0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "brody",
+        "score": 0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "yu_zhong",
+        "score": -0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "khaleed",
+        "score": -0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "atlas",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "alpha",
+        "score": 0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "lapu_lapu",
+        "score": -0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "leomord",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "roger",
+        "score": -0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "julian",
+        "score": -0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "natalia",
+        "score": -0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "hayabusa",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "aamon",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "harley",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "nolan",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "granger",
+        "score": -0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "kadita",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -449,6 +1283,30 @@
         "heroId": "atlas",
         "score": 0.7,
         "reason": ""
+      },
+      {
+        "heroId": "minsitthar",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "novaria",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "khufra",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "lolita",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
       }
     ]
   },
@@ -495,6 +1353,12 @@
         "heroId": "lylia",
         "score": -0.4,
         "reason": "Lylia's poke chips Valentina down before she can steal a useful ultimate."
+      },
+      {
+        "heroId": "faramis",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -561,6 +1425,78 @@
         "heroId": "saber",
         "score": -0.6,
         "reason": ""
+      },
+      {
+        "heroId": "kagura",
+        "score": 0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "jawhead",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "hanzo",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "vexana",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "aurora",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "gord",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "pharsa",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "cyclops",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "novaria",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "popol_and_kupa",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "minotaur",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "kaja",
+        "score": -0.6,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -683,6 +1619,18 @@
         "heroId": "khufra",
         "score": -0.5,
         "reason": ""
+      },
+      {
+        "heroId": "brody",
+        "score": -0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "clint",
+        "score": -0.4,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -846,6 +1794,18 @@
         "heroId": "ling",
         "score": -0.4,
         "reason": ""
+      },
+      {
+        "heroId": "tigreal",
+        "score": 0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "minsitthar",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -924,6 +1884,12 @@
         "heroId": "tigreal",
         "score": 0.6,
         "reason": ""
+      },
+      {
+        "heroId": "chou",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
       }
     ]
   },
@@ -980,6 +1946,18 @@
         "heroId": "minotaur",
         "score": 0.6,
         "reason": ""
+      },
+      {
+        "heroId": "akai",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "khufra",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
       }
     ]
   },
@@ -1095,6 +2073,48 @@
         "heroId": "balmond",
         "score": -0.3,
         "reason": ""
+      },
+      {
+        "heroId": "angela",
+        "score": 0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "beatrix",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "melissa",
+        "score": -0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "yu_zhong",
+        "score": 0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "fredrinn",
+        "score": -0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "hanabi",
+        "score": 0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "barats",
+        "score": -0.4,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -1166,6 +2186,150 @@
         "heroId": "claude",
         "score": -0.4,
         "reason": ""
+      },
+      {
+        "heroId": "cecilion",
+        "score": -0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "yve",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "zilong",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "sun",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "hilda",
+        "score": 0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "lapu_lapu",
+        "score": 0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "martis",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "dyrroth",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "phoveus",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "zhask",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "gord",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "luo_yi",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "pharsa",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "harith",
+        "score": -0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "odette",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "xavier",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "novaria",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "zhuxin",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "zetian",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "bruno",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "moskov",
+        "score": -0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "natan",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "carmilla",
+        "score": -0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "obsidia",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -1183,6 +2347,12 @@
         "heroId": "angela",
         "score": 0.6,
         "reason": ""
+      },
+      {
+        "heroId": "estes",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
       }
     ]
   },
@@ -1278,6 +2448,12 @@
         "heroId": "lylia",
         "score": -0.4,
         "reason": ""
+      },
+      {
+        "heroId": "beatrix",
+        "score": -0.4,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -1295,6 +2471,276 @@
         "heroId": "cecilion",
         "score": 0.6,
         "reason": ""
+      },
+      {
+        "heroId": "gusion",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "lylia",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "lancelot",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "kagura",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "terizla",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "khaleed",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "alpha",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "ruby",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "lapu_lapu",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "leomord",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "minsitthar",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "badang",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "guinevere",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "phoveus",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "sora",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "julian",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "arlott",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "silvanna",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "benedetta",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "nana",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "vexana",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "zhask",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "aurora",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "chang_e",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "gord",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "faramis",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "luo_yi",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "pharsa",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "odette",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "lunox",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "xavier",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "zhuxin",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "zetian",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "bruno",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "clint",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "layla",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "moskov",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "irithel",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "natan",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "gatotkaca",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "lolita",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "ixia",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "kadita",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "obsidia",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "vale",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
       }
     ]
   },
@@ -1339,6 +2785,12 @@
         "heroId": "diggie",
         "score": -0.8,
         "reason": ""
+      },
+      {
+        "heroId": "franco",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -1361,6 +2813,192 @@
         "heroId": "yve",
         "score": 0.7,
         "reason": ""
+      },
+      {
+        "heroId": "lylia",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "brody",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "kagura",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "terizla",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "khaleed",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "ruby",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "lapu_lapu",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "minsitthar",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "badang",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "guinevere",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "phoveus",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "arlott",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "silvanna",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "benedetta",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "nana",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "vexana",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "zhask",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "aurora",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "gord",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "luo_yi",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "xavier",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "zhuxin",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "zetian",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "bruno",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "clint",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "layla",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "moskov",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "gatotkaca",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "ixia",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "obsidia",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "vale",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
       }
     ]
   },
@@ -1400,6 +3038,12 @@
         "heroId": "baxia",
         "score": -0.6,
         "reason": ""
+      },
+      {
+        "heroId": "franco",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -1417,6 +3061,42 @@
         "heroId": "barats",
         "score": 0.7,
         "reason": ""
+      },
+      {
+        "heroId": "fanny",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "alucard",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "balmond",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "aldous",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "thamuz",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "fredrinn",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
       }
     ]
   },
@@ -1470,6 +3150,72 @@
         "heroId": "lancelot",
         "score": 0.6,
         "reason": "Her dash extends Lancelot's effective engage range."
+      },
+      {
+        "heroId": "valentina",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "hilda",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "roger",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "julian",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "karina",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "hayabusa",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "aamon",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "nolan",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "granger",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "grock",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "chip",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
       }
     ]
   },
@@ -1570,6 +3316,90 @@
         "heroId": "yve",
         "score": -0.5,
         "reason": ""
+      },
+      {
+        "heroId": "freya",
+        "score": -0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "alpha",
+        "score": -0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "thamuz",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "dyrroth",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "bane",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "silvanna",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "chang_e",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "bruno",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "irithel",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "kimmy",
+        "score": -0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "uranus",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "hylos",
+        "score": -0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "edith",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "aulus",
+        "score": -0.6,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -1631,6 +3461,30 @@
         "heroId": "ruby",
         "score": -0.6,
         "reason": ""
+      },
+      {
+        "heroId": "freya",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "argus",
+        "score": -0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "silvanna",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "aulus",
+        "score": -0.6,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -1743,6 +3597,18 @@
         "heroId": "terizla",
         "score": -0.5,
         "reason": ""
+      },
+      {
+        "heroId": "argus",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "thamuz",
+        "score": -0.4,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -1855,6 +3721,48 @@
         "heroId": "khufra",
         "score": -0.5,
         "reason": ""
+      },
+      {
+        "heroId": "gusion",
+        "score": 0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "khaleed",
+        "score": 0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "freya",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "lapu_lapu",
+        "score": 0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "badang",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "dyrroth",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "silvanna",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -2023,6 +3931,12 @@
         "heroId": "valir",
         "score": -0.6,
         "reason": ""
+      },
+      {
+        "heroId": "zhask",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -2374,6 +4288,126 @@
         "heroId": "kagura",
         "score": -0.5,
         "reason": ""
+      },
+      {
+        "heroId": "khaleed",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "alucard",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "ruby",
+        "score": 0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "argus",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "jawhead",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "martis",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "aldous",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "leomord",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "guinevere",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "yin",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "roger",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "sora",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "julian",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "arlott",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "silvanna",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "hayabusa",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "benedetta",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "joy",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "harith",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "wanwan",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -2447,6 +4481,12 @@
         "heroId": "minotaur",
         "score": 0.6,
         "reason": ""
+      },
+      {
+        "heroId": "johnson",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
       }
     ]
   },
@@ -2593,6 +4633,12 @@
         "heroId": "paquito",
         "score": -0.6,
         "reason": ""
+      },
+      {
+        "heroId": "wukong",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -2654,6 +4700,30 @@
         "heroId": "esmeralda",
         "score": -0.6,
         "reason": ""
+      },
+      {
+        "heroId": "lapu_lapu",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "martis",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "arlott",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "benedetta",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -3239,6 +5309,402 @@
         "heroId": "diggie",
         "score": -0.7,
         "reason": ""
+      },
+      {
+        "heroId": "gusion",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "lylia",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "beatrix",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "valentina",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "claude",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "melissa",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "brody",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "kagura",
+        "score": 0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "cecilion",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "yve",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "khaleed",
+        "score": 0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "mathilda",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "alucard",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "alpha",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "roger",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "sora",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "julian",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "bane",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "karina",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "hayabusa",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "helcurt",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "selena",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "hanzo",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "aamon",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "yi_sun_shin",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "harley",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "nolan",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "suyou",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "nana",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "alice",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "vexana",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "zhask",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "aurora",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "chang_e",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "gord",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "faramis",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "luo_yi",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "pharsa",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "odette",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "valir",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "lunox",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "xavier",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "novaria",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "zhuxin",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "zetian",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "bruno",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "clint",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "layla",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "moskov",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "karrie",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "irithel",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "hanabi",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "granger",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "popol_and_kupa",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "lesley",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "kimmy",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "natan",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "grock",
+        "score": -0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "lolita",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "aulus",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "ixia",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "kadita",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "kaja",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "kalea",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "obsidia",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "vale",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -3256,6 +5722,30 @@
         "heroId": "franco",
         "score": 0.5,
         "reason": ""
+      },
+      {
+        "heroId": "hilda",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "jawhead",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "selena",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "kaja",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
       }
     ]
   },
@@ -3463,6 +5953,18 @@
         "heroId": "diggie",
         "score": -0.5,
         "reason": ""
+      },
+      {
+        "heroId": "guinevere",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "nana",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -3944,6 +6446,36 @@
         "heroId": "atlas",
         "score": -0.6,
         "reason": ""
+      },
+      {
+        "heroId": "estes",
+        "score": 0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "x_borg",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "bane",
+        "score": -0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "grock",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "vale",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -3961,6 +6493,48 @@
         "heroId": "estes",
         "score": 0.5,
         "reason": ""
+      },
+      {
+        "heroId": "mathilda",
+        "score": 0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "jawhead",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "yin",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "bane",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "helcurt",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "selena",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "hanzo",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
       }
     ]
   },
@@ -4241,6 +6815,30 @@
         "heroId": "fanny",
         "score": -0.6,
         "reason": ""
+      },
+      {
+        "heroId": "lancelot",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "kagura",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "helcurt",
+        "score": -0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "selena",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -4548,6 +7146,42 @@
         "heroId": "saber",
         "score": -0.5,
         "reason": ""
+      },
+      {
+        "heroId": "dyrroth",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "akai",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "grock",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "baxia",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "hylos",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "edith",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -4594,6 +7228,24 @@
         "heroId": "saber",
         "score": -0.5,
         "reason": ""
+      },
+      {
+        "heroId": "gatotkaca",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "uranus",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "barats",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -4809,6 +7461,42 @@
         "heroId": "yin",
         "score": -0.5,
         "reason": ""
+      },
+      {
+        "heroId": "yu_zhong",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "badang",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "sora",
+        "score": -0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "karina",
+        "score": -0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "johnson",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "gatotkaca",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -4962,6 +7650,96 @@
         "heroId": "natalia",
         "score": -0.7,
         "reason": ""
+      },
+      {
+        "heroId": "lapu_lapu",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "leomord",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "badang",
+        "score": -0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "guinevere",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "yin",
+        "score": -0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "roger",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "sora",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "julian",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "karina",
+        "score": -0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "hayabusa",
+        "score": -0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "selena",
+        "score": -0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "yi_sun_shin",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "suyou",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "johnson",
+        "score": -0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "gatotkaca",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -5059,6 +7837,36 @@
         "heroId": "saber",
         "score": -0.6,
         "reason": ""
+      },
+      {
+        "heroId": "gatotkaca",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "uranus",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "hylos",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "barats",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "edith",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -5258,6 +8066,12 @@
         "heroId": "minsitthar",
         "score": -0.6,
         "reason": ""
+      },
+      {
+        "heroId": "clint",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -5605,6 +8419,48 @@
         "heroId": "x_borg",
         "score": -0.5,
         "reason": ""
+      },
+      {
+        "heroId": "jawhead",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "helcurt",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "selena",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "aamon",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "harley",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "johnson",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "vale",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -5632,6 +8488,18 @@
         "heroId": "floryn",
         "score": 0.5,
         "reason": ""
+      },
+      {
+        "heroId": "layla",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "hanabi",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
       }
     ]
   },
@@ -5773,6 +8641,168 @@
         "heroId": "diggie",
         "score": -0.7,
         "reason": ""
+      },
+      {
+        "heroId": "paquito",
+        "score": 0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "mathilda",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "alucard",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "freya",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "ruby",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "jawhead",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "leomord",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "badang",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "yin",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "roger",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "sora",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "julian",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "arlott",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "hayabusa",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "benedetta",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "yi_sun_shin",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "nolan",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "bruno",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "clint",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "moskov",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "irithel",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "granger",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "wanwan",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "natan",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "ixia",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "kalea",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "obsidia",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -5824,6 +8854,12 @@
         "heroId": "lunox",
         "score": -0.6,
         "reason": ""
+      },
+      {
+        "heroId": "esmeralda",
+        "score": -0.6,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -5870,6 +8906,18 @@
         "heroId": "valir",
         "score": -0.6,
         "reason": ""
+      },
+      {
+        "heroId": "floryn",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "esmeralda",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -6059,6 +9107,30 @@
         "heroId": "masha",
         "score": -0.6,
         "reason": ""
+      },
+      {
+        "heroId": "bane",
+        "score": -0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "wukong",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "hanabi",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "chip",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -6110,6 +9182,12 @@
         "heroId": "diggie",
         "score": -0.7,
         "reason": ""
+      },
+      {
+        "heroId": "valentina",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -6127,6 +9205,18 @@
         "heroId": "badang",
         "score": 0.6,
         "reason": ""
+      },
+      {
+        "heroId": "lylia",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "phoveus",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
       }
     ]
   },
@@ -6217,6 +9307,30 @@
         "heroId": "estes",
         "score": -0.6,
         "reason": ""
+      },
+      {
+        "heroId": "mathilda",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "irithel",
+        "score": -0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "floryn",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "chip",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -6244,6 +9358,18 @@
         "heroId": "kimmy",
         "score": 0.6,
         "reason": ""
+      },
+      {
+        "heroId": "irithel",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "aulus",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
       }
     ]
   },
@@ -6298,6 +9424,66 @@
         "heroId": "marcel",
         "score": -0.8,
         "reason": ""
+      },
+      {
+        "heroId": "franco",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "angela",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "yin",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "saber",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "helcurt",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "akai",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "johnson",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "khufra",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "carmilla",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "kadita",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -6315,6 +9501,72 @@
         "heroId": "belerick",
         "score": 0.6,
         "reason": ""
+      },
+      {
+        "heroId": "fanny",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "melissa",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "yu_zhong",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "zilong",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "freya",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "harith",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "miya",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "karrie",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "hanabi",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "wanwan",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "lesley",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
       }
     ]
   },
@@ -6366,6 +9618,204 @@
         "heroId": "aulus",
         "score": 0.6,
         "reason": ""
+      },
+      {
+        "heroId": "melissa",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "yu_zhong",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "alucard",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "balmond",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "zilong",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "freya",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "sun",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "alpha",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "argus",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "martis",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "leomord",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "thamuz",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "dyrroth",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "yin",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "roger",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "sora",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "fredrinn",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "karina",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "hayabusa",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "joy",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "yi_sun_shin",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "suyou",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "cyclops",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "karrie",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "wanwan",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "belerick",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "uranus",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "baxia",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "hylos",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "edith",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "cici",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "esmeralda",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "kalea",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
       }
     ]
   },
@@ -6395,6 +9845,12 @@
         "heroId": "saber",
         "score": -0.5,
         "reason": ""
+      },
+      {
+        "heroId": "cyclops",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -6518,6 +9974,12 @@
         "heroId": "masha",
         "score": -0.6,
         "reason": ""
+      },
+      {
+        "heroId": "yu_zhong",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -6615,6 +10077,24 @@
         "heroId": "angela",
         "score": -0.7,
         "reason": ""
+      },
+      {
+        "heroId": "fanny",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "martis",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "suyou",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -6822,6 +10302,18 @@
         "heroId": "zhuxin",
         "score": -0.5,
         "reason": ""
+      },
+      {
+        "heroId": "dyrroth",
+        "score": -0.4,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "arlott",
+        "score": -0.4,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -6834,6 +10326,12 @@
         "heroId": "dyrroth",
         "score": 0.5,
         "reason": ""
+      },
+      {
+        "heroId": "arlott",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
       }
     ]
   },
@@ -6878,6 +10376,30 @@
         "heroId": "angela",
         "score": -0.7,
         "reason": ""
+      },
+      {
+        "heroId": "eudora",
+        "score": -0.5,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "diggie",
+        "score": 0.8,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "floryn",
+        "score": -0.7,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "hirara",
+        "score": 0.7,
+        "reason": "",
+        "inferred": true
       }
     ],
     "synergies": [
@@ -6895,6 +10417,18 @@
         "heroId": "carmilla",
         "score": 0.7,
         "reason": ""
+      },
+      {
+        "heroId": "atlas",
+        "score": 0.6,
+        "reason": "",
+        "inferred": true
+      },
+      {
+        "heroId": "eudora",
+        "score": 0.5,
+        "reason": "",
+        "inferred": true
       }
     ]
   },
